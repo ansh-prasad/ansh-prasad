@@ -2,8 +2,8 @@
 
 <h3 align="left">Stars</h3>
 <p>
-  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=ansh-prasad&show_icons=true&locale=en&theme=tokyonight" alt="ansh-prasad" />
-  <img align="center" height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=ansh-prasad&theme=tokyonight" alt="ansh-prasad" />
+  <img align="center" height="1800em" src="https://github-readme-stats.vercel.app/api?username=ansh-prasad&show_icons=true&locale=en&theme=tokyonight" alt="ansh-prasad" />
+  <img align="center" height="1800em" src="https://github-readme-streak-stats.herokuapp.com/?user=ansh-prasad&theme=tokyonight" alt="ansh-prasad" />
 </p>
 
 <h3 align="left">Languages and Tools</h3>
