@@ -4,7 +4,15 @@
 <p>
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=ansh-prasad&show_icons=true&locale=en&theme=tokyonight" alt="ansh-prasad" />
   <img align="center" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ansh-prasad&theme=tokyonight" alt="ansh-prasad" />
+  
 </p>
+
+
+### 🔝 Top Contributed Repo
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-prasad&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-contributor-stats.vercel.app/api?username=ansh-prasad&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
@@ -24,6 +32,6 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="left">⚡Activity Graph:</h2>
+<h3 align="left">Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ansh-prasad&theme=tokyo-night"/>
 
