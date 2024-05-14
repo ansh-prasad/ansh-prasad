@@ -6,7 +6,7 @@
   <img align="center" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ansh-prasad&theme=tokyonight" alt="ansh-prasad" />
   
   <img align="center" height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-prasad&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-  <img align="center" height="170em" src="https://github-contributor-stats.vercel.app/api?username=ansh-prasad&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contributor Stats" />
+  <img align="center" height="197em" src="https://github-contributor-stats.vercel.app/api?username=ansh-prasad&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contributor Stats" />
 </p>
 
 
