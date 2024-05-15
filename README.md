@@ -14,7 +14,6 @@
 
 
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=anshprasad01)](https://github.com/anshprasad01/leetcode-stats)
 
 
 
