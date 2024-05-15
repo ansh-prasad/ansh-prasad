@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ansh Prasad</h1>
 
-<h3 align="left">Stars</h3>
+<h3 align="left">Updates</h3>
 <p>
   <img align="center" height="160em" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api?username=ansh-prasad&show_icons=true&locale=en&theme=tokyonight" alt="ansh-prasad" />
   <img align="center" height="160em" style="margin: 10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=ansh-prasad&theme=tokyonight" alt="ansh-prasad" />
