@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Ansh Prasad</h1>
 
+
 <h3 align="left">Updates</h3>
 <p>
   <img align="center" height="160em" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api?username=ansh-prasad&show_icons=true&locale=en&theme=tokyonight" alt="ansh-prasad" />
@@ -13,7 +14,7 @@
 
 
 
-
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=anshprasad01)](https://github.com/anshprasad01/leetcode-stats)
 
 
 
