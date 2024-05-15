@@ -2,12 +2,15 @@
 
 <h3 align="left">Stars</h3>
 <p>
-  <img align="center" height="150em" style="margin-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=ansh-prasad&show_icons=true&locale=en&theme=tokyonight" alt="ansh-prasad" />
-  <img align="center" height="150em" style="margin-right: 10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=ansh-prasad&theme=tokyonight" alt="ansh-prasad" />
-  
-  <img align="center" height="105em" style="margin-right: 10px; margin-top: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-prasad&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-  <img align="center" height="187em" style="margin-top: 10px;" src="https://github-contributor-stats.vercel.app/api?username=ansh-prasad&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contributor Stats" />
+  <img align="center" height="160em" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api?username=ansh-prasad&show_icons=true&locale=en&theme=tokyonight" alt="ansh-prasad" />
+  <img align="center" height="160em" style="margin: 10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=ansh-prasad&theme=tokyonight" alt="ansh-prasad" />
 </p>
+<p>
+  <img align="center" height="115em" style="margin: 10px 10px 10px 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-prasad&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img align="center" height="197em" style="margin: 10px 10px 10px 10px;" src="https://github-contributor-stats.vercel.app/api?username=ansh-prasad&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contributor Stats" />
+</p>
+
+
 
 
 
