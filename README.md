@@ -33,12 +33,12 @@
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
 </p>
-</div><h3 align="left">Connect with me:</h3>
+</div><h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ansh-prasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="ansh-prasad" height="25" width="30" /></a><a href="https://instagram.com/ansh.prasad13" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="ansh.prasad13" height="30" width="40" /></a><a href="https://auth.geeksforgeeks.org/user/anshprasad01" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/geeks-for-geeks.svg" alt="anshprasad01" height="30" width="40" /></a></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="left">Activity Graph:</h2>
+<h3 align="left">Activity Graph</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ansh-prasad&theme=tokyo-night"/>
 
 
