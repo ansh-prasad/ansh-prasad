@@ -1,4 +1,4 @@
-name: Update README with GeeksforGeeks Stats
+name: Update README with Coding Stats
 
 on:
   schedule:
@@ -20,11 +20,11 @@ jobs:
           python-version: '3.x'
 
       - name: Install Dependencies
-        run: pip install requests
+        run: pip install requests beautifulsoup4
 
-      - name: Fetch and Update GeeksforGeeks Stats
+      - name: Fetch and Update Stats
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python fetch_gfg_stats.py
+          python fetch_stats.py
           python update_readme.py
