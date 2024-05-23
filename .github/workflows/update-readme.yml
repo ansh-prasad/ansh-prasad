@@ -1,0 +1,30 @@
+name: Update README with GeeksforGeeks Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs every day at midnight
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: pip install requests
+
+      - name: Fetch and Update GeeksforGeeks Stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python fetch_gfg_stats.py
+          python update_readme.py
